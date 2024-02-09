@@ -150,7 +150,7 @@ const texts = ['','Hi, chào mọi người', 'Hôm nay mình có một điều 
 'Mình cảm ơn!! ^^',
 ''
 ];
-const timings = [7, 2, 2, 2, 2, 14, 2, 2, 2, 2, 2, 2, 2, 8,
+const timings = [8, 2, 2, 2, 2, 14, 2, 2, 2, 2, 2, 2, 2, 8,
 14,
 2, 1, 2, 1, 2, 1, 1, 2, 1, 2,
 1,
